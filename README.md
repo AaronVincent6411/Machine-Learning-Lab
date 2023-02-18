@@ -16,8 +16,8 @@ Let's start from the beginning
 - Chapter 11 - Classification
 - Chapter 12 - Logestic Regression
 - Chapter 13 - Navie Bayes
-- Chapter 14 - Some matematical problems using Navie Bayes
+- Chapter 14 - Some mathematical problems using Navie Bayes
 - Chapter 15 - Decision Tree
-- Chapter 16 - Some matematical problems using Decision Tree
+- Chapter 16 - Some mathematical problems using Decision Tree
 - Chapter 17 - SVM
 - Chapter 18 - Some mathematical problems using SVM
