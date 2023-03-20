@@ -19,5 +19,7 @@ Let's start from the beginning
 - Chapter 14 - Some mathematical problems using Navie Bayes
 - Chapter 15 - Decision Tree
 - Chapter 16 - Some mathematical problems using Decision Tree
-- Chapter 17 - SVM
+- Chapter 17 - SVM (Support Vector Machine)
 - Chapter 18 - Some mathematical problems using SVM
+- Chapter 19 - PCA (Principal Component Analysis)
+- Chapter 20 - Some mathematical problems using PCA
