@@ -23,4 +23,4 @@ Let's start from the beginning
 - Chapter 18 - Some mathematical problems using SVM
 - Chapter 19 - PCA (Principal Component Analysis)
 - Chapter 20 - Some mathematical problems using PCA
-- Chapter 21 - Boston House Price Prediction
+- Chapter 21 - Boston House Price Prediction (Practice)
