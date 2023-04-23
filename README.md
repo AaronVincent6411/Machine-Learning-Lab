@@ -24,3 +24,4 @@ Let's start from the beginning
 - Chapter 19 - PCA (Principal Component Analysis)
 - Chapter 20 - Some mathematical problems using PCA
 - Chapter 21 - Boston House Price Prediction (Practice)
+- Chapter 22 - Artificial Neural Network (ANN)
