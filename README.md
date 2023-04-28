@@ -1,5 +1,5 @@
 # Machine-Learning-Lab 
-This repository is for learning Machine Learning
+This repository is for learning Machine Learning. I contains Machine Learning Lab.
 
 Let's start from the beginning
 
