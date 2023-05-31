@@ -26,3 +26,5 @@ Let's start from the beginning
 - Chapter 21 - Boston House Price Prediction (Practice)
 - Chapter 22 - Artificial Neural Network (ANN)
 - Chapter 23 - Artificial Neural Network (ANN) Practice Program
+
+- Chapter 24
