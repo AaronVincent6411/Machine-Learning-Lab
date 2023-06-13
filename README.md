@@ -27,4 +27,4 @@ Let's start from the beginning
 - Chapter 22 - Artificial Neural Network (ANN)
 - Chapter 23 - Artificial Neural Network (ANN) Practice Program
 
-- Chapter 24 - Convolutional Neural Network (CNN) 
+- Chapter 24 - Convolutional Neural Network (CNN)  
