@@ -6,7 +6,7 @@ This repository is for learning Machine Learning. It contains Machine Learning L
 
 ``` This repository contains 15 experiments along with some practice files related to some of the specific algorithms. Practice files will be updated along side.```
 
-[Overall File](./1-Overall File.ipynb)
+[Overall File](./1-Overall%20File.ipynb)
 
 This overall file contains all experiments starting from experiment 1 to 15 at a glance.
 
@@ -14,26 +14,26 @@ This overall file contains all experiments starting from experiment 1 to 15 at a
 **Familirization of Python** General Content
 
 - Experiment 1 
-**Union and Intersection** [Overall File](./1-Overall File.ipynb)
+**Union and Intersection** [Overall File](./1-Overall%20File.ipynb)
 
 - Experiment 2 
-**Frequency Count Of Words** [Overall File](./1-Overall File.ipynb)
+**Frequency Count Of Words** [Overall File](./1-Overall%20File.ipynb)
 
 - Experiment 3 
-**Matrix Multiplication** [Overall File](./1-Overall File.ipynb)
+**Matrix Multiplication** [Overall File](./1-Overall%20File.ipynb)
 
 - Experiment 4 
-**Longest Words** [Overall File](./1-Overall File.ipynb)
+**Longest Words** [Overall File](./1-Overall%20File.ipynb)
 
 - Experiment 5 
-**Most Frequent words in a file** [Overall File](./1-Overall File.ipynb)
+**Most Frequent words in a file** [Overall File](./1-Overall%20File.ipynb)
 
 - Experiment 6 
 **Familiarization with Matplotlib, Numpy, Pandas and Scikit-Learn** Brief explanation about matplotlib, numpy , pandas and scikit-learn
 
 - Experiment 7 
 **Linear Regression** [LR](./2-Linear%20Regression.ipynb)
-   - Simple Linear Regression [SLR](./3-Simple Linear Regression.ipynb)
+   - Simple Linear Regression [SLR](./3-Simple%20Linear%20Regression.ipynb)
    - Polynomial Regression [PLR](./4-Polynomial%20Regression.ipynb)
    - Linear Regression using Back Propagation [LR using BP](./5-Linear%20Regression%20Using%20Backward%20Elimination.ipynb)
 
